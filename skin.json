@@ -48,7 +48,7 @@
 			"scripts": [
 				"css/bootstrap.min.js"
 			]
-		},
+		}
 	},
 	"ResourceFileModulePaths": {
 		"localBasePath": "",
