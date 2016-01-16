@@ -7,7 +7,6 @@
  * @author Alexander Knight (https://Aebian.org/)
  * @license https://Aebian.org/licenses/nm
  */
- 
 
 if ( function_exists( 'wfLoadSkin' ) ) {
 	wfLoadSkin( 'AebianTheme' );
