@@ -19,18 +19,6 @@
 		"SkinAebianTheme": "AebianTheme.skin.php"
 	},
 	"ResourceModules": {
-		"skins.AebianTheme": {
-			"position": "top",
-			"styles": {
-				"css/screen.less": {
-					"media": "screen"
-				}
-			},
-			"dependencies": [
-				"skins.AebianTheme.bootstrap",
-				"skins.AebianTheme.font-awesome"
-			]
-		},
 		"skins.AebianTheme.bootstrap": {
 			"position": "top",
 			"styles": [
@@ -41,6 +29,18 @@
 			"position": "top",
 			"styles": [
 				"css/font-awesome.min.css"
+			]
+		},
+		"skins.AebianTheme": {
+			"position": "top",
+			"styles": {
+				"css/screen.less": {
+					"media": "screen"
+				}
+			},
+			"dependencies": [
+				"skins.AebianTheme.bootstrap",
+				"skins.AebianTheme.font-awesome"
 			]
 		},
 		"skins.AebianTheme.js": {
