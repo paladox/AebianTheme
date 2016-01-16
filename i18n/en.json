@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Alexander Knight"
+		]
+	},
+	"skinname-aebiantheme": "Aebian Wiki Theme",
+	"aebiantheme-skin-desc": "The Main Theme for the Aebian Wiki.",
+	"aebiantheme.css": "/* CSS placed here will affect users of the AebianTheme skin */",
+	"aebiantheme.js": "/* Any JavaScript here will be loaded for users using the AebianTheme skin */"
+}

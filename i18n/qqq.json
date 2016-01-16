@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"skinname-aebiantheme": "{{optional}}",
+	"aebiantheme-skin-desc": "{{desc|what=skin|name=Aebian Wiki Theme|url=https://Aebian.org/}}",
+	"aebiantheme.css": "{{optional}}",
+	"aebiantheme.js": "{{optional}}"
+}
