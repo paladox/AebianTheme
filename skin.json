@@ -22,7 +22,7 @@
 		"skins.AebianTheme": {
 			"position": "top",
 			"styles": {
-				"css/screen.css": {
+				"css/screen.less": {
 					"media": "screen"
 				}
 			}
