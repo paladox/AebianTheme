@@ -1,7 +1,3 @@
-<link href="https://aebian.org/combine/9f313cbdef6f75c260c1abea921ce9d6-1452301313" rel="stylesheet">
-<link href="https://aebian.org/combine/cb05de13446f11fe7fc47ccc7a08837b-1439902022" rel="stylesheet">
-<link href="https://aebian.org/combine/1024557a2e3695abe7527b9757f3ac6c-1439902022" rel="stylesheet">
-
 <div class="topbar animated fadeInLeftBig"></div>
 <div class="navbar-wrapper" style="margin-bottom: -2.5em;">
 	<div class="navbar navbar-default" role="navigation" id="top-nav" style="z-index: 5;">
