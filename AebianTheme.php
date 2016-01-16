@@ -10,6 +10,7 @@
 
 if( !defined( 'MEDIAWIKI' ) ) die( "This is an extension to the MediaWiki package and cannot be run standalone." );
 
+
 $wgExtensionCredits['skin'][] = array (
 	'path' => __FILE__,
 	'name' => 'Aebian Wiki Theme',
