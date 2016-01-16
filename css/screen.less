@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,900italic,900,700italic,700,400italic,300italic,300,100italic,100);
 * {
     margin: 0;
+	-webkit-box-sizing: content-box !important;
+	-webkit-box-sizing: content-box !important;
+	box-sizing: content-box !important;
 }
 html, body {
     height: 100%;
@@ -47,7 +50,7 @@ a {text-decoration: none; }
 .navbar {margin-bottom: 11px; }
 .navbar-inverse{background: #111;}
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{background: none;color: #8B171F;}
-.navbar-right {margin-right: 0px;}
+.navbar-right {margin-right: 0px !important;}
 
 .mcontent {
     z-index: 2;
@@ -394,3 +397,21 @@ li {list-style: none;}
     display:none;
 }
 
+div#mw-head {
+    top: 1.6em !important;
+	left: 0px !important;
+	width: 76% !important;
+	z-index: 6;
+}
+
+#p-personal {
+	top: 0px !important;
+}
+
+.mw-body {
+	margin-top: -2.7em !important;
+}
+
+.mw-wiki-logo {
+    background-image: none !important;
+}

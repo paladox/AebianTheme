@@ -3,8 +3,8 @@
 <link href="https://aebian.org/combine/1024557a2e3695abe7527b9757f3ac6c-1439902022" rel="stylesheet">
 
 <div class="topbar animated fadeInLeftBig"></div>
-<div class="navbar-wrapper">
-	<div class="navbar navbar-default" role="navigation" id="top-nav">
+<div class="navbar-wrapper" style="margin-bottom: -2.5em;">
+	<div class="navbar navbar-default" role="navigation" id="top-nav" style="z-index: 5;">
 		<div class="navbar-header">
 			<!-- Logo Starts -->
 			<a class="navbar-brand" href="https://Aebian.org"><img src="https://assets-cdn.aebian.org/aebian.org/logo.png" alt="logo"></a>
@@ -13,10 +13,10 @@
 		<!-- Nav Starts -->
 		<ul class="nav navbar-nav navbar-right">
 			<li><a href="https://Aebian.org"><b>Home</b></a></li>
-			<li><a href="#"><b>Blog</b></a></li>
+			<li><a href="https://aebian.org/stories/default"><b>Blog</b></a></li>
 			<li class="active hidden-md"><a href="https://wiki.aebian.org"><b>Wiki</b></a></li>
-			<li><a href="#"><b>Partners</b></a></li>
-			<li><a href="#"><b>Media</b></a></li>
+			<li><a href="https://aebian.org/partners"><b>Partners</b></a></li>
+			<li><a href="https://aebian.org/media"><b>Media</b></a></li>
 		</ul>
 	</div>
 </div>
