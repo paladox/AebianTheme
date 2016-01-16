@@ -35,15 +35,18 @@
 			"position": "top",
 			"styles": [
 				"css/bootstrap.min.css"
-			],
-			"scripts": [
-				"css/bootstrap.min.js"
 			]
 		},
 		"skins.AebianTheme.font-awesome": {
 			"position": "top",
 			"styles": [
 				"css/font-awesome.min.css"
+			]
+		},
+		"skins.AebianTheme.js": {
+			"position": "top",
+			"scripts": [
+				"css/bootstrap.min.js"
 			]
 		},
 	},
