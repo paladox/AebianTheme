@@ -56,7 +56,7 @@ class SkinAebianTheme extends SkinVector {
 	 */
 	function setupSkinUserCss( OutputPage $out ) {
 		parent::setupSkinUserCss( $out );
-		$out->addModuleStyles( 'skins.AebianTheme' );
+		$out->addModuleStyles( array( 'skins.AebianTheme.bootstrap', 'skins.AebianTheme.font-awesome', 'skins.AebianTheme' ) );
 	}
 
 }
