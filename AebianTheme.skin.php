@@ -42,7 +42,17 @@ class SkinAebianTheme extends SkinVector {
 	public $stylename = 'AebianTheme';
 
 	/**
-	 * @param $out OutputPage object
+	 * Initializes output page and sets up skin-specific parameters
+	 * @param OutputPage $out Object to initialize
+	 */
+	public function initPage( OutputPage $out ) {
+		parent::initPage( $out );
+		$out->addModules( array( 'skins.AebianTheme.js' ) );
+	}
+
+	/**
+	 * Loads skin and user CSS files.
+	 * @param OutputPage $out
 	 */
 	function setupSkinUserCss( OutputPage $out ) {
 		parent::setupSkinUserCss( $out );
