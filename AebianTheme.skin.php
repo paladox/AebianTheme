@@ -6,23 +6,21 @@
 * @ingroup Skins
 */
 
-require_once( dirname( __FILE__ ) . '/../Vector.php' );
-
 /**
  * SkinTemplate class for My Skin skin
  * @ingroup Skins
  */
 class SkinAebianTheme extends SkinVector {
 
-	var $skinname = 'AebianTheme', $stylename = 'AebianTheme';
+	public $skinname = 'aebiantheme';
+	public $stylename = 'AebianTheme';
 
 	/**
 	 * @param $out OutputPage object
 	 */
-	function setupSkinUserCss( OutputPage $out ){
+	function setupSkinUserCss( OutputPage $out ) {
 		parent::setupSkinUserCss( $out );
-		$out->addModuleStyles( "skins.AebianTheme" );
+		$out->addModuleStyles( 'skins.AebianTheme' );
 	}
 
 }
-?>
