@@ -1,0 +1,37 @@
+{
+	"name": "Aebian Wiki Theme",
+	"namemsg": "skinname-aebiantheme",
+	"author": [
+		"Alexander Knight"
+	],
+	"url": "https://Aebian.org/",
+	"descriptionmsg": "aebiantheme-skin-desc",
+	"type": "skin",
+	"ValidSkinNames": {
+		"aebiantheme": "AebianTheme"
+	},
+	"MessagesDirs": {
+		"AebianTheme": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"SkinAebianTheme": "AebianTheme.skin.php"
+	},
+	"ResourceModules": {
+		"skins.AebianTheme": {
+			"position": "top",
+			"styles": {
+				"css/screen.css": {
+					"media": "screen"
+				}
+			}
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "",
+		"remoteSkinPath": "AebianTheme"
+	},
+	"config": {},
+	"manifest_version": 1
+}
