@@ -17,6 +17,7 @@
 	</div>
 </div>
 <div class="clampo"></div>
+<div style="margin-bottom: 90px"><br></div>
 <?php
 /**
 * Skin file for Aebian Wiki Theme.
