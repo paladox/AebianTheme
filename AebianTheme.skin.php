@@ -16,7 +16,7 @@
 		</ul>
 	</div>
 </div>
-
+<div class="clampo"></div>
 <?php
 /**
 * Skin file for Aebian Wiki Theme.
