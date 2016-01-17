@@ -1,5 +1,5 @@
 <div class="topbar animated fadeInLeftBig"></div>
-<div class="navbar-wrapper" style="margin-bottom: -2.5em;">
+<div class="navbar-wrapper" style="margin-bottom: -1.8em;">
 	<div class="navbar navbar-default" role="navigation" id="top-nav" style="z-index: 5;">
 		<div class="navbar-header">
 			<!-- Logo Starts -->
@@ -16,8 +16,9 @@
 		</ul>
 	</div>
 </div>
+<div style="margin-bottom: 100px; background-color: #F0F0F0;"><br></div>
 <div class="clampo"></div>
-<div style="margin-bottom: 90px"><br></div>
+
 <?php
 /**
 * Skin file for Aebian Wiki Theme.

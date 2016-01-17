@@ -36,6 +36,9 @@
 			"styles": {
 				"css/screen.less": {
 					"media": "screen"
+				},
+				"css/screen-2.less": {
+					"media": "screen"
 				}
 			},
 			"dependencies": [
