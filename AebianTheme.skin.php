@@ -16,7 +16,7 @@
 		</ul>
 	</div>
 </div>
-<div style="margin-bottom: 100px; background-color: #F0F0F0;"><br></div>
+<div style="margin-bottom: 110px; background-color: #F0F0F0;"><br></div>
 <div class="clampo"></div>
 
 <?php
